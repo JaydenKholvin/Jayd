@@ -1,1 +1,1 @@
-Print ("Tores")
+print ("Tores")
